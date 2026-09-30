@@ -1,6 +1,6 @@
 cask "openwhisperflow" do
-  version "0.1.0"
-  sha256 "bdcb9fa61690a8845c8d8f7a272ff6e09641732dd48aac3817d06978d16bb274"
+  version "0.1.1"
+  sha256 "95688a1a64599a549eeacceb0b16708a88d78c2aa71f3172d0a61a44b41770b6"
 
   url "https://github.com/sumitjha4321/openwhisperflow/releases/download/v#{version}/OpenWhisperFlow-#{version}-arm64.zip"
   name "OpenWhisperFlow"
